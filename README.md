@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**ArthurCoelhob/ArthurCoelhob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Hellooo! 👋
 Meu nome é Arthur e:
@@ -13,3 +8,8 @@ Meu nome é Arthur e:
 📫 Como entrar em contato comigo:
     e-mail: arthurcoelhoob@gmail.com
     linkdin: https://www.linkedin.com/in/arthur-coelho-5351441b4/
+
+<!--
+**ArthurCoelhob/ArthurCoelhob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
