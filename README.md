@@ -1,14 +1,16 @@
 
 Hellooo! 👋
-Meu nome é Arthur e:
+Meu nome é Arthur:
 
-😄 Eu gosto muito de aprender.
-📚 Atualmente estudo JavaScript, CSS, HTML e curso Analise e desenvolvimento de sistemas.
-👯 Estou procurando colaborar em projetos para desenvolver minhas habilidades e crescer como profissional.
-📫 Como entrar em contato comigo:
+😄 I really like to learn and evolve.
+📚  Studying Systems Analysis and Development.
+👯  I'm looking to collaborate on projects to develop my skills and grow as a professional.
+📚 Technologies:
+React.js / Typescript / Javascript / Html / Css / Scss 
+📫 How to contact me:
     e-mail: arthurcoelhoob@gmail.com
     linkdin: https://www.linkedin.com/in/arthur-coelho-5351441b4/
-
+👨🏾‍💻 developer front end at Teknisa.
 <!--
 **ArthurCoelhob/ArthurCoelhob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
