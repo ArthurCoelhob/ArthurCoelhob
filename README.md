@@ -1,6 +1,6 @@
 
 Hellooo! 👋
-Meu nome é Arthur:
+My name is Arthur:
 
 😄 I really like to learn and evolve.
 📚  Studying Systems Analysis and Development.
