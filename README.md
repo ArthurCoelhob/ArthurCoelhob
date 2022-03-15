@@ -15,7 +15,7 @@ Estou aprendendo e melhorando minhas habilidades em desenvolvimento Full Stack. 
 <li>TypeScript
 <li>Vue.js
 <li>Sql
-<li>Tornar meu código mais limpo, legível e adaptado à Acessibilidade.
+<li>Código limpo e boas praticas.
 <li>Engenharia de Software
 <li>Arquitetura de Software<p>
  </div>
