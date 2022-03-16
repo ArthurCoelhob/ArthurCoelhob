@@ -16,8 +16,6 @@ Estou aprendendo e melhorando minhas habilidades em desenvolvimento Full Stack. 
 <li>Vue.js
 <li>Sql
 <li>Código limpo e boas praticas.
-<li>Engenharia de Software
-<li>Arquitetura de Software<p>
  </div>
 
 
