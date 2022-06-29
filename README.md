@@ -11,11 +11,12 @@
 Estou aprendendo e melhorando minhas habilidades em desenvolvimento Full Stack. Atualmente, foco em:
 
 <li>PHP
+<li>Laravel
+<li>POO
 <li>JavaScript
 <li>TypeScript
 <li>Vue.js
 <li>Sql
-<li>Código limpo e boas praticas.
  </div>
 
 
