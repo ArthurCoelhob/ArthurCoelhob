@@ -1,7 +1,7 @@
 
 <div>
     <h1>Olá! Sou o <a href="https://www.linkedin.com/in/arthur-coelho-5351441b4/"><i>Arthur Coelho.</i></a> 😃️</h1>
- <p>Formado em Análise e desenvolvimento de sistemas e no momento estudando da Puc na turma de Pos em Engenharia de Software, atualmente Desenvolvedor Full Stack<p>
+ <p>Formado em Análise e desenvolvimento de sistemas e no momento estudante da Puc na turma de Pos em Engenharia de Software, atualmente Desenvolvedor Full Stack<p>
  </div>
  
  <div>
