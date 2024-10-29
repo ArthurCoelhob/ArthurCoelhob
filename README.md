@@ -1,22 +1,25 @@
-
 <div>
     <h1>Olá! Sou o <a href="https://www.linkedin.com/in/arthur-coelho-5351441b4/"><i>Arthur Coelho.</i></a> 😃️</h1>
- <p>Formado em Análise e desenvolvimento de sistemas e no momento estudante da Puc na turma de Pos em Engenharia de Software, atualmente Desenvolvedor Full Stack<p>
- </div>
- 
- <div>
+   <p>Sou graduado em Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Full Stack, com foco em desenvolvimento web, APIs e boas práticas de código.</p>
+</div>
+
+<div>
     <h1>💡 O que estou fazendo agora</h1>
- <p>Atualmente sou Desenvolvedor Full Stack na <a href="https://www.teknisa.com/"><i>Teknisa</i></a><p>
-
-Estou aprendendo e melhorando minhas habilidades em desenvolvimento Full Stack. Atualmente, foco em:
-
-<li>PHP
-<li>Laravel
-<li>JavaScript
-<li>TypeScript
-<li>Vue.js
-<li>Sql
- </div>
+    <p>Atualmente, sou Desenvolvedor Full Stack na <a href="https://www.teknisa.com/"><i>Teknisa</i></a></p>
+    <p>Minhas principais habilidades incluem:</p>
+    <ul>
+        <li>PHP</li>
+        <li>JavaScript</li>
+        <li>TypeScript</li>
+        <li>Node.js</li>
+        <li>Laravel</li>
+        <li>Vue.js</li>
+        <li>SQL</li>
+        <li>PostgreSQL</li>
+        <li>Docker</li>
+        <li>Práticas de CI/CD</li>
+    </ul>
+</div>
 
 
   
